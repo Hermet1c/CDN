@@ -1,0 +1,15 @@
+﻿{
+  "Version": "16.0.1",
+  "Name": "LinkShortener",
+  "DestinationType": "URLShortener",
+  "RequestMethod": "POST",
+  "RequestURL": "https://exapmle.com/links",
+  "Headers": {
+    "passphrase": null
+  },
+  "Body": "FormURLEncoded",
+  "Arguments": {
+    "url": "{input}"
+  },
+  "URL": "{json:linkUrl}"
+}

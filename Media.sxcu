@@ -1,0 +1,19 @@
+﻿{
+  "Version": "16.0.1",
+  "Name": "Media",
+  "DestinationType": "ImageUploader, TextUploader, FileUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "https://example.com/",
+  "Headers": {
+    "provider": null,
+    "author": null,
+    "providerUrl": null,
+    "colour": "#000000",
+    "desc": null,
+    "title": null,
+    "passphrase": null
+  },
+  "Body": "MultipartFormData",
+  "FileFormName": "file",
+  "URL": "{json:imageUrl}"
+}
