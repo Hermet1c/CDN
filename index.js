@@ -1,4 +1,4 @@
-const passphrase = '3WE8THKAGD7' //Passphrase to uplaod media and create short links
+const passphrase = '' //Passphrase to uplaod media and create short links
 const tls = false //false = 'http', true = 'https'
 const privateKey = '/path/to/private/key' //Needed for secure tls connections
 const certificate = '/path/to/certificate' //Needed for secure tls connections
